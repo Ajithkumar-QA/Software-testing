@@ -1,0 +1,127 @@
+
+
+
+								Sequence Testing points
+
+1,2,3-----ramya dev      1,2 completed  3th pending 991
+4,5,6-----ramchandran    4.5 completed   6th point bug 993
+7---------Ramya QA	 7th completed    completed
+8---------Ajith QA	 8th completed
+Added points below
+
+8th point continuity
+Need to check Manual commission and Quick Search,Revert commission Functionality.
+
+
+
+
+
+								Regression Testing:
+
+1.create and update-->Entities, client, adjusters
+active and inactive-->Entities, client, adjusters
+(permission basis)
+
+ 
+
+2.User-->Add and update								RAMCH
+Active and inactive
+Mail functionality
+(permission basis)
+
+Try to login above all users after create A User
+
+ 
+
+3.Notes and diary-->Create and update
+File upload impacted modules-->entity, client, adjuster, claim, diary			ramya-dev
+(permission basis)
+
+ 
+
+4.Claims-->Create, update, close, reopen
+impacted module-data entry, claims and new assignment
+Search filters- Advanced filter
+Need to check PDF and CSV
+(permission basis)
+
+ 
+
+5.Invoice-->review, approve, reject, void, payment , refund, write off, payment void
+imapacted modules-claim invoice, invoice management, workbench, claim reports				Ramya-QA
+Batch process-create and update, approve, post, delete
+Also verify back end
+Search filters- Advanced filter
+Need to check PDF and CSV
+(permission basis)
+
+ 
+
+6.Commission batch-->To be generated, Manual commissions, All commission, Quick search, commission statements tab, Post commission batch--check in batch process
+Also verify back end
+Adjuster type- Employee, contracter and Need to chech NFIP							Ramya-QA
+Need to check PDF and CSV
+(permission basis)
+
+ 
+
+7.Manage cat
+Add, update, delete-Reflects in claim info
+search bar
+(permission basis)
+
+ 
+
+8.Dispatch management-->To check unassigned claims to the adjuster and Polygon
+Bulk reassignment
+Search filters- Advanced filter								Ramya-dev
+(permission basis)
+
+ 
+
+9.Workbench-Search filters
+Review Approve,reject and								Ramch
+add notes and comments
+Verify claim details
+ 
+
+ 
+
+10.Broad cast-->Create and update,(permission basis)					ramyaQA
+
+11.DATA Entry 										RAmya dev
+
+ 
+
+Search filters- Advanced filter
+Need to check PDF and CSV
+
+
+
+
+
+
+
+
+
+
+
+Claims-->completed
+Create, --completed
+update,---completed
+ close,--completed
+ reopen--completed
+
+and
+new assignment --completed
+Search filters- Advanced filter
+Need to check PDF and CSV
+(permission basis)
+
+
+
+
+
+
+
+
